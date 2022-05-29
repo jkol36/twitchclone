@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me 2222",
+      "id": 2
+    },
+    {
+      "title": "Programatic navigation",
+      "description": "We created our own History object",
+      "userId": "101338157390477619220",
+      "id": 3
+    },
+    {
+      "title": "me streaming component reuse",
+      "description": "This stream is about editing stream",
+      "id": 4
+    }
+  ]
+}
